@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    padding: 0px;
+     /* background-color: rgb(50, 171, 205);  */
+    background-color: rgb(71, 121, 221); 
+    
+    
+}
+.termsofservice{
+    display: flex;
+    justify-content: center;
+    background-color:#ee845a ;
+}
+.contentkj{
+    height: auto;
+    width: 60%;
+    background-color: #c3e69c;
+    margin-top: 5%;
+    border-radius: 6px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 10px 10px 5px 10px;
+    
+}
+
+.contentkj .termsofservice-navs{
+    text-decoration: none;
+    font-size: 17px;
+    color: #313131;
+}
+.contentkj span{
+    font-size: 17px;
+    color: #313131;
+}
+.contentkj p{
+    font-size: 16px;
+    letter-spacing: 0.5px;
+}

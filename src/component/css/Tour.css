@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #eeee4e;
+}
+.tour{
+    display: flex;
+    justify-content: center;
+    background-color: #ee845a;
+}
+.contenteee{
+    height:auto;
+    width: 90%;
+    background-color: #a6ec57;
+    margin-top: 5%;
+    border-radius: 6px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 10px 10px 5px 10px;
+}
+
+.contenteee .tour-nav{
+    text-decoration: none;
+    font-size: 13px;
+    color: #313131;
+}
+.contenteee span{
+    font-size: 17px;
+    color: #313131;
+}
+.contenteee p{
+    font-size: 13px;
+    letter-spacing: 0.5px;
+}

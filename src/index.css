@@ -1,0 +1,246 @@
+/* body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #EEE;
+  font-family: sans-serif;
+} */
+ 
+
+
+.button {
+  background-color: rgb(10, 34, 0);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 15px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.button:hover {
+  background-color: rgb(255, 85, 0);
+  transform: scale(1.05);
+}
+
+
+ .wholecard{
+  height: 500px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+   background-color:#50001b  ; 
+ 
+
+}
+.card1{
+  height: 340px;
+  width: 18.5%;
+  background-color: #fff;
+  margin-top: 15px;
+  border-radius: 25px;
+  margin-left: 10px;
+  /* box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;  */
+  box-shadow: 0 7px 15px 0 rgba(0, 0, 0, .13), 0 1px 4px 0 rgba(0, 0, 0, .11);
+}
+.Box h1{
+  color: #991200;
+  font-weight: bold;
+}
+
+
+ .wholecard .card1 .img{
+  display: block;
+  text-align: center;
+  padding-top: 40px;
+  
+} 
+
+
+
+
+.wholecard .card1 p{
+  font-size: 17px;
+  font-weight: bold;
+  color: #001555;
+  margin-top: -10px;
+}
+.wholecard .card1 span{
+  font-size: 18px;
+  color: black;
+  font-weight: bold;
+} 
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #7293d4; 
+  font-family: 'Arial', sans-serif;
+  overflow-x: hidden;
+}
+
+.menu {
+  height: 70px;
+  width: 100%;
+  background-color: #04470a;
+  padding-top: 5px;
+  display: block;
+  text-align: center;
+}
+
+.menu nav ul li {
+  display: inline-block;
+  
+}
+
+.menu nav ul li .nav{
+  color: #e9d3d3;
+  text-decoration: none;
+   margin: 0 30px; 
+  padding: 20px 15px;
+  letter-spacing: 0.9px;
+  transition: background-color 0.3s ease;
+}
+.menu nav ul li .nav:hover {
+  background-color: #e94a1a;
+  color: #1814a3;
+  border-radius: 19px;
+
+}
+/* .home {
+  text-align: center;
+  padding: 100px 60px;
+  background-image: url('./Img//darjeeling.jpg');
+  background-size: cover;
+  background-position: center;
+  justify-content: center;
+  color: #ee0008;
+  border-radius: auto;
+
+  
+}
+.home h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+  border: 0.1px solid rgb(125, 5, 5);
+  width: 50%;
+  border-radius: 50px;
+  margin-left: 25%;
+}
+.home p {
+  font-size: 48px;
+  margin-bottom: 20px;
+  color:rgb(255, 225, 0) ;
+  
+}
+.home button {
+  background-color: #e61b00;
+  color: #fff;
+  border: none;
+  padding: 15px 30px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.home button:hover {
+  background-color: #df210f;
+} */
+
+
+
+
+.home {
+  position: relative;
+  text-align: center;
+  color: #ffffff; 
+  overflow: hidden;
+ 
+
+}
+
+.carousel-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.carousel-item {
+  transition: transform 1.5s ease-in-out !important; /* Faster transition */
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 90vh;
+  object-fit: cover;
+}
+
+.home-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);  
+  padding: 20px;
+  border-radius: 20px;
+  
+}
+
+.home h1 {
+  font-size: 60px;
+  margin-bottom: 20px;
+  color: #FF4500;
+}
+.home h2{
+  font-size: 50px;
+  color: #f0f0f0;
+}
+
+.home p {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #FFFF00;
+}
+
+.home button {
+  background-color: #f41c00;
+  color: #fff;
+  border: none;
+  padding: 15px 30px;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 20px;
+  transition: background-color 0.3s ease;
+}
+
+.home button:hover {
+  background-color: #007235;
+}
+
+.title-container {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  /* background-color: #50001b; */
+  background-color: #031b00;
+  border-radius: 30px;
+  padding: 10px;
+  color: #FFD700;
+}
+
+.title-container h1 {
+  margin: 0;
+}
+
+
+
+
+
+

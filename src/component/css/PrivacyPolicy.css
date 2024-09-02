@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.privacy-policy{
+    display: flex;
+    justify-content: center;
+    background-color:#ee845a ;
+}
+.contentzzz{
+    height: auto;
+    width: 60%;
+    background-color: #c3e69c;
+    margin-top: 5%;
+    border-radius: 6px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 10px 10px 5px 10px;
+    
+}
+
+.contentzzz .privacy-policy-navsz{
+    text-decoration: none;
+    font-size: 17px;
+    color: #313131;
+}
+.contentzzz span{
+    font-size: 17px;
+    color: #313131;
+}
+.contentzzz p{
+    font-size: 16px;
+    letter-spacing: 0.5px;
+}
