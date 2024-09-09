@@ -276,7 +276,11 @@ body{
     background-color: #000;
     border-radius: 8px;
     overflow: hidden;
-}
+} 
+
+
+
+
 html, body {
     margin: 0;
     padding: 0;
@@ -327,7 +331,7 @@ main {
     position: relative;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     padding: 20px; 
-    background-color: white; 
+    background-color:#3333cc;
 }
 
 .video-wrapper::before {
@@ -346,8 +350,8 @@ main {
 }
 
 .about-video {
-    width: 100%;
-    height: 100%;
+    width: 110%;
+    height: 110%;
     border: none;
     position: relative;
     z-index: 2;
@@ -408,5 +412,7 @@ main {
     width: 100%;  
 
 }
+
+
 
 

@@ -135,6 +135,7 @@ const Contact = () => {
                             <li><a href="https://www.linkedin.com/in/md-asif-022739261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noopener noreferrer">Md. Asif</a></li>
                             <li><a href="https://www.linkedin.com/in/maharshi-adhikary-110570249/" target="_blank" rel="noopener noreferrer">Maharshi Adhikary</a></li>
                             <li><a href="https://www.linkedin.com/in/puspaksha-ghosh-093651291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">Pushpaksha Ghosh</a></li>
+                            <li><a href="https://www.linkedin.com/in/abriti-hazra-4b0702261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">Abriti Hazra</a></li>
                         </ol>
                     </section>
 

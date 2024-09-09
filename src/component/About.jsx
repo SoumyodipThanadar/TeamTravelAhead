@@ -57,13 +57,19 @@ const About = () => {
                 <div className="about-section">
                     <div className="right-content">
                         <div className="video-wrapper">
-                        <iframe 
+                        {/* <iframe 
     src="https://www.youtube.com/embed/Kc8nzMBrP8s?rel=0" 
     frameBorder="0" 
     referrerPolicy="strict-origin-when-cross-origin" 
     allowFullScreen
     className="about-video">
-</iframe>
+</iframe> */}
+<video 
+    controls 
+    className="about-video">
+    <source src="/Videos/wt.mp4" type="video/mp4" />
+    
+</video>
 
 
 

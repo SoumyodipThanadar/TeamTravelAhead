@@ -82,7 +82,7 @@ const Box = () =>{
                 <div className="card1">    
                     <div className="img">
                         <img src={DOARS} alt={DOARS} height={'120px'} width={'120px'}></img>
-                        <h4>DOARS</h4><br></br>
+                        <h4>DOOARS</h4><br></br>
                         <p>6 Days 5 Nights</p>
                         <span>Rs.3500 - 4800</span>
                         <span style = {{textDecoration:'line-through', color:'red', marginLeft:'5px'}}> Rs.50000<span></span></span>

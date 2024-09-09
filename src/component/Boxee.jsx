@@ -17,7 +17,7 @@ const Boxee = () =>{
                 <div className="card1"> 
                     <div className="img">
                         <img src={NANITAL} alt={NANITAL} height={'120px'} width={'120px'}></img>
-                        <h4>NANITAL</h4><br></br>
+                        <h4>NAINITAL</h4><br></br>
                         <p>6 Days 5 Nights</p>
                         <span>Rs. 4000 - 8000</span>
                         <span style = {{textDecoration:'line-through', color:'red', marginLeft:'5px'}}> Rs.50000<span></span></span>

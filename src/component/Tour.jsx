@@ -24,6 +24,7 @@ import { NavLink } from "react-router-dom";
 import Box from "./Box";
 import Boxee from "./Boxee";
 import Kolcart from "./Kolcart";
+import Tourchat from "./Tourchat"
 
 const Tour = () => {
     return (
@@ -36,6 +37,7 @@ const Tour = () => {
                 <p style={{textAlign:"justify"}}>
                     
                 </p>
+                <Tourchat />
                 <Box />
                 <Boxee />
                 <Kolcart />
